@@ -1,4 +1,0 @@
-﻿
-namespace UnoCupertinoSample.Skia.Gtk
-{
-}

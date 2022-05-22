@@ -1,3 +1,0 @@
-namespace NativeFrameNav.Skia.Gtk
-{
-}

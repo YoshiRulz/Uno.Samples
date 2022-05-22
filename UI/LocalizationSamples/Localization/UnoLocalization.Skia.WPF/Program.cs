@@ -1,3 +1,0 @@
-namespace UnoLocalization.Skia.Gtk
-{
-}

@@ -1,3 +1,0 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" 
-    Service="TimeEntryRia.Web.Services.TimesheetSummaryService" 
-    CodeBehind="TimesheetSummaryService.svc.cs" %>

@@ -1,4 +1,0 @@
-﻿
-namespace PackageResourcesSample.Skia.Gtk
-{
-}

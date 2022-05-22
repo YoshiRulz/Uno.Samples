@@ -1,4 +1,0 @@
-﻿
-namespace WCTDataTreeTabSample.Skia.Gtk
-{
-}
